@@ -1,4 +1,2 @@
 Web_IP="10.10.10.15"
 DB_IP="10.20.10.29"
-Username="ubuntu"
-PRIVATE_KEY="ops.pem"
